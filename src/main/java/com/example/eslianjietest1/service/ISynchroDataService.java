@@ -1,8 +1,4 @@
-/**
- * @(#) ISynchroDataService.java 1.0 2018-01-19
- * Copyright (c) 2018, YUNXI. All rights reserved.
- * YUNXI PROPRIETARY/CONFIDENTIAL. Use is subject to license terms.
- */
+
 package com.example.eslianjietest1.service;
 
 import com.example.eslianjietest1.vo.IndexBuilderConfigEo;
