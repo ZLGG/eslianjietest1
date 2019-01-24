@@ -10,10 +10,7 @@ import com.example.eslianjietest1.vo.IndexBuilderConfigEo;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author 风行
- * @since 0.5.0
- */
+
 public interface ISynchroDataService {
 
     /**

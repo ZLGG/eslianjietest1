@@ -18,10 +18,7 @@ import javax.annotation.Resource;
 import java.sql.PreparedStatement;
 import java.util.Map;
 
-/**
- * @author 风行
- * @since 0.5.0
- */
+
 @Service
 public class DbManager {
     private static Logger logger = LoggerFactory.getLogger(DbManager.class);

@@ -2,10 +2,7 @@ package com.example.eslianjietest1.db;
 
 import com.alibaba.druid.pool.DruidDataSource;
 
-/**
- * @author 风行
- * @since 0.5.0
- */
+
 public class DbConnection {
 
     private DruidDataSource dataSource;
